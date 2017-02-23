@@ -1,3 +1,8 @@
 img {
-    width: 200px;
+    width: 500px;
 }
+body {
+    text-align: center;
+    font-family: Playfair-Display, sans-serif;
+}
+@font-face { font-family: Playfair-Display; src: url('ThatGanderman.github.io/PlayfairDisplay-Regular.ttf'); } 
